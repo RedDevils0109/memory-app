@@ -27,7 +27,7 @@ export type Memory = LetterMemory | MediaMemory;
 const VIDEO_EXT = /\.(mp4|webm|mov|m4v|ogv)$/i;
 
 export function toPublicPath(path: string): string {
-  return `${MEDIA_BASE}/${path.replace(/^\.?\/+/, "")}`;
+  return path;
 }
 
 function parseDate(raw?: string): { label: string; short: string } | null {

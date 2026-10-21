@@ -7,7 +7,9 @@
     {
         "type": "media",
         "content": [
-            "./page-1-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589769/IMG_5476.png",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589769/IMG_5478.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589770/IMG_5475.jpg"
         ],
         "date": "15032026",
         "caption": "Ngày đầu tiên tụi mình đi chơi riêng. Cũng là lần đầu tiên lam dẫn tui vào con đường đi bar xập xình🙈"
@@ -15,8 +17,8 @@
     {
         "type": "media",
         "content": [
-            "./page-2-image-1.png",
-            "./page-2-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589769/IMG_5539.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589771/IMG_5538.jpg"
         ],
         "date": "19032026",
         "caption": "Tui dẫn lam đi ún cà phê ven sông thanh đa (cái sông hơi hôi xin lũi 😔"
@@ -24,8 +26,8 @@
     {
         "type": "media",
         "content": [
-            "./page-3-image-1.png",
-            "./page-3-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589776/IMG_5549.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589771/IMG_5551.jpg"
         ],
         "date": "20032026",
         "caption": "Bộ tứ đi ăn nhạo bar bủng xuyên đêm (Sáng dạy xem bill tỉnh rượu lun má...)"
@@ -34,21 +36,21 @@
     {
         "type": "media",
         "content": [
-            "./page-4-image-1.png",
-            "./page-4-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589769/IMG_5609.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589784/IMG_5611.jpg"
         ],
         "date": "24032026",
         "caption": "Lam qua chỗ tui làm ăn trưa ún cà phê"
     },
     {
         "type": "letter",
-        "content": "Và sau hôm đó là hôm tụi mình đi rooftop. I forgot taking pictures at that time sorry...\nHong biết lam còn giữ chiếc nhẫn đó hong, hay là giận tui qua dục ròi 🥹"
+        "content": "Và sau hôm đó là hôm tụi mình đi rooftop. I forgot taking pictures at that time sorry...\nHong biết lam còn giữ chiếc nhẫn đó hong, hay là giận tui quá dục ròi 🥹"
     },
     {
         "type": "media",
         "content": [
-            "./page-5-image-1.png",
-            "./page-5-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589785/IMG_5638.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589783/IMG_5643.jpg"
         ],
         "date": "25032026",
         "caption": "Và đây, nơi mọi thứ bắt đầu...ngày toai bị từ chốiiiii"
@@ -56,8 +58,7 @@
     {
         "type": "media",
         "content": [
-            "./page-6-image-1.png",
-            "./page-6-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589786/IMG_5641.jpg"
         ],
         "date": "25032026",
         "caption": "Mà thôi bù lại được nói chuyện với Lam đến sang cũng dui hehe 😙"
@@ -65,7 +66,7 @@
     {
         "type": "media",
         "content": [
-            "./page-7-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589944/IMG_5716.png"
         ],
         "date": "30032026",
         "caption": "Và rồi em đã quay về Nhật 😭 "
@@ -73,18 +74,18 @@
     {
         "type": "media",
         "content": [
-            "./page-8-image-1.png",
-            "./page-8-image-2.png",
-            "./page-8-image-3.png",
-            "./page-8-image-4.png",
-            "./page-8-image-5.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589783/IMG_5740.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589784/IMG_5763.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589799/IMG_5804.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589800/IMG_6209.jpg",
+            "https://res.cloudinary.com/whle9ogj/video/upload/v1792589813/ScreenRecording_04-16-2026_21-37-55_1.mov"
         ],
         "caption": "Nhưng tui vẫn stalk em hằng ngàyyy (Not like a pervert btw 😒)"
     },
     {
         "type": "media",
         "content": [
-            "./page-9-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589947/IMG_5900.png"
         ],
         "date": "17042026",
         "caption": "Lần đầu tụi mình call khi lam bên nhật"
@@ -93,7 +94,7 @@
     {
         "type": "media",
         "content": [
-            "./page-10-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589953/IMG_5954.jpg"
         ],
         "date": "23042026",
         "caption": "Chiếc nơ đầu tiên tui tặngg, hope you like it 😙 "
@@ -105,7 +106,7 @@
     {
         "type": "media",
         "content": [
-            "./page-11-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589800/IMG_6460.jpg"
         ],
         "date": "01082026",
         "caption": "Thế là tụi mình gặp lại nhau, và đi nhậu...(Lam vẫn chưa kể tui hôm đó lam nói gì đó 🙃 "
@@ -114,8 +115,7 @@
     {
         "type": "media",
         "content": [
-            "./page-12-image-1.png",
-            "./page-12-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589817/IMG_6469.jpg"
         ],
         "date": "02082026",
         "caption": "Đi coi sì pai đờ men (Quên chụp gòi lấy ảnh này đỡ 🥹) "
@@ -124,8 +124,8 @@
     {
         "type": "media",
         "content": [
-            "./page-13-image-1.png",
-            "./page-13-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589802/IMG_6463.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589802/IMG_6465.jpg"
         ],
         "date": "02082026",
         "caption": "Tham gia lớp học của cô giáo Miiii"
@@ -134,14 +134,14 @@
     {
         "type": "media",
         "content": [
-            "./page-14-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589818/IMG_6478.jpg"
         ],
         "caption": "Rồi chưa được xem lun má 😑"
     },
     {
         "type": "media",
         "content": [
-            "./page-15-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589819/IMG_6492.jpg"
         ],
         "date": "07082026",
         "caption": "Đi nhậu tập n. Nay dẫn thằng cốt gặp Lam hehe"
@@ -153,8 +153,8 @@
     {
         "type": "media",
         "content": [
-            "./page-16-image-1.png",
-            "./page-16-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589918/507706ee-f9c1-4886-ad46-f597ab9ae718.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589940/3E098AC0-679A-470A-8BB8-6586A7594446.jpg"
         ],
         "date": "21082026",
         "caption": "Sau 7749 lần đi chơi thì ngày này cũng đã đến, hồi ức đau thương 🫥 (Và cũng chính thức làm bạn trai Lammmm)"
@@ -163,10 +163,10 @@
     {
         "type": "media",
         "content": [
-            "./page-17-image-1.png",
-            "./page-17-image-2.png",
-            "./page-17-image-3.png",
-            "./page-17-image-4.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589819/IMG_6636.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589820/IMG_6634.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589822/IMG_6637.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589823/IMG_6638.jpg"
         ],
         "date": "27082026",
         "caption": "Đi uống rooftop chill chil kỉ nịm 1 tuần bên nhao. I love that gifttt"
@@ -174,8 +174,9 @@
     {
         "type": "media",
         "content": [
-            "./page-18-image-1.png",
-            "./page-18-video-1.mp4"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589824/IMG_6654.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589917/0e049732-1065-4a78-8993-27555f53b850.jpg",
+            "https://res.cloudinary.com/whle9ogj/video/upload/v1792589844/IMG_6653.mov"
         ],
         "date": "28082026",
         "caption": "Đêm nóng bóng trong homestay 🥵 Em Lam mặc đồ ngủ cuteee"
@@ -183,7 +184,7 @@
     {
         "type": "media",
         "content": [
-            "./page-19-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589820/IMG_6657.jpg"
         ],
         "date": "29082026",
         "caption": "Đi nhậu mừng cốt Lâm trở về (Moá nhậu 3 ngày 3 đêm)"
@@ -191,11 +192,9 @@
     {
         "type": "media",
         "content": [
-            "./page-20-image-1.png",
-            "./page-20-image-2.png",
-            "./page-20-image-3.png",
-            "./page-20-image-4.png",
-            "./page-20-image-5.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589826/IMG_6676.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589826/IMG_6678.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589827/IMG_6680.jpg"
         ],
         "date": "01092026",
         "caption": "One of the happiest day in my life ádcwezxcv. Cảm ơn Lammmm 😭"
@@ -203,8 +202,8 @@
     {
         "type": "media",
         "content": [
-            "./page-21-image-1.png",
-            "./page-21-video-1.mp4"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589878/IMG_6700.jpg",
+            "https://res.cloudinary.com/whle9ogj/video/upload/v1792589897/IMG_6701.mov"
         ],
         "date": "02092026",
         "caption": "Lần đầu làm chuyện ấy... dẫn em ghệ đi gặp bà chị guột"
@@ -212,8 +211,8 @@
     {
         "type": "media",
         "content": [
-            "./page-22-image-1.png",
-            "./page-22-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589939/01436EFF-0D10-473A-944A-5F2D401FF68C.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589937/05BA2AB5-BC8D-46A2-A79F-1232A99242FE.jpg"
         ],
         "date": "06092026",
         "caption": "Bữa cuối nguyên đám đi chơiii 😭"
@@ -221,16 +220,16 @@
     {
         "type": "media",
         "content": [
-            "./page-23-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589873/IMG_6727.jpg"
         ],
         "date": "06092026",
-        "caption": "Bó hoa thứ 2 tui tặng em 😙"
+        "caption": "Bóa hoa thứ 2 tui tặng em 😙"
     },
     {
         "type": "media",
         "content": [
-            "./page-24-image-1.png",
-            "./page-24-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589882/IMG_6730.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589880/IMG_6729.jpg"
         ],
         "date": "07092026",
         "caption": "Lần đầu Lam nấu ăn cho tuiii. I miss it a lot 🫠"
@@ -238,7 +237,7 @@
     {
         "type": "media",
         "content": [
-            "./page-25-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589880/IMG_6750.jpg"
         ],
         "date": "08092026",
         "caption": "Study date, nhưng mà trong phòng kín...(Về nhà hơi mỏi nha má 😒) "
@@ -246,9 +245,9 @@
     {
         "type": "media",
         "content": [
-            "./page-26-image-1.png",
-            "./page-26-image-2.png",
-            "./page-26-image-3.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589883/IMG_6765.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589874/FullSizeRender.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589874/IMG_6771.jpg"
         ],
         "date": "10092026",
         "caption": "Này mới study date thiệt nè 🤭"
@@ -256,7 +255,7 @@
     {
         "type": "media",
         "content": [
-            "./page-26-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589948/ec154144-1e29-44f9-94e0-37393cdf439d.jpg"
         ],
         "date": "13092026",
         "caption": "Our first liveshowww"
@@ -264,7 +263,8 @@
     {
         "type": "media",
         "content": [
-            "./page-27-image-1.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589945/IMG_6874.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589944/IMG_6876.jpg"
         ],
         "date": "14092026",
         "caption": "Ra mắt cục dàng dới mấy anh chị. Đến giờ mấy ngừoi đó vẫn chưa tin Lam chịu làm bạn gái tui 😔"
@@ -272,8 +272,9 @@
     {
         "type": "media",
         "content": [
-            "./page-28-image-1.png",
-            "./page-28-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589883/IMG_6877.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589877/IMG_6883.jpg"
+
         ],
         "date": "15092026",
         "caption": "Lần cuối được ăn món Lam nấu 😭"
@@ -281,8 +282,8 @@
     {
         "type": "media",
         "content": [
-            "./page-29-image-1.png",
-            "./page-29-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589918/d8a3bfbb-74bb-4a8b-b06b-45b1ed4aa322.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589875/IMG_6920.jpg"
         ],
         "date": "19092026",
         "caption": "Buổi đi bar xập xình cúi cùnggg. First time seeing your mom too🙂‍↕️. But I still remember what you told me that night girl 😏"
@@ -290,10 +291,10 @@
     {
         "type": "media",
         "content": [
-            "./page-30-image-1.png",
-            "./page-30-image-2.png",
-            "./page-30-image-3.png",
-            "./page-30-video-1.mp4"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589946/IMG_6934.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589936/E526F948-0273-4BC7-A925-9125402AE318.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589939/0F010F8A-7256-4079-AF1E-C2E7C5C4F681.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589938/C4308FEC-FEE0-4450-9010-AEF252277548.jpg"
         ],
         "date": "20092026",
         "caption": "Đi chụp photoboothhhh. I still keep it in my wallet 😙"
@@ -301,9 +302,9 @@
     {
         "type": "media",
         "content": [
-            "./page-31-image-1.png",
-            "./page-31-image-2.png",
-            "./page-31-image-3.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589877/IMG_6951.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589876/IMG_6955.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792593128/46c4f3c5-65a7-4320-aabf-0d6e02092169.jpg"
         ],
         "date": "21092026",
         "caption": "Happy one month anniversaryyy!!"
@@ -311,8 +312,8 @@
     {
          "type": "media",
          "content": [
-            "./page-32-image-1.png",
-            "./page-32-image-2.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589922/IMG_6978.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589911/IMG_6976.jpg"
         ],
         "date": "22092026",
         "caption": "Lam dầm mưa lên RMIT gặp tui 😭"
@@ -320,10 +321,8 @@
     {
          "type": "media",
          "content": [
-            "./page-33-image-1.png",
-            "./page-33-image-2.png",
-            "./page-33-image-3.png",
-            "./page-33-video-1.mp4"
+            "https://res.cloudinary.com/whle9ogj/video/upload/v1792593362/2e0442f4-4688-4e27-8b0f-21d1fe0efd3f.mp4",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589943/487D6C79-FF91-4E82-9570-06F5CC169A7A.jpg"
         ],
         "date": "23092026",
         "caption": "Đi chơi vincomm. I love the jacket so so muchhhh thank you Lamm 🥰"
@@ -331,31 +330,28 @@
     {
         "type": "media",
         "content": [
-            "./page-34-image-1.png",
-            "./page-34-image-2.png",
-            "./page-34-image-3.png",
-            "./page-34-image-4.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589920/IMG_7012.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589921/IMG_7014.jpg",
+            "https://res.cloudinary.com/whle9ogj/video/upload/v1792593576/2d3a0dbe-1795-4d36-8f7f-2ef614818ffb.mp4"
         ],
         "date": "24092026",
-        "caption": "Ngày cuối mình đi chơi ở Sài Gòn 😞"
+        "caption": "Ngày cuối mình đi chơi ở Sài Gòn 😞(Clip kia nhạy cảm hong đưa lên hehe)"
     },
     {
         "type": "media",
         "content": [
-            "./page-35-image-1.png",
-            "./page-35-image-2.png",
-            "./page-35-image-3.png",
-            "./page-35-image-4.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589912/IMG_7033.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589922/IMG_7034.jpg"
         ],
         "caption": "Và rồi..."
     },
     {
         "type": "media",
         "content": [
-            "./page-36-image-1.png",
-            "./page-36-image-2.png",
-            "./page-36-image-3.png",
-            "./page-36-image-4.png"
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589941/FAF63C8A-FD71-4051-A689-0A3DD90850F5.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589913/IMG_7095.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589916/IMG_7100.jpg",
+            "https://res.cloudinary.com/whle9ogj/image/upload/v1792589915/IMG_7099.jpg"
         ],
         "caption": "Câu chuyện này cũng đến lúc phải dừng lại"
     },

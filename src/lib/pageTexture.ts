@@ -40,6 +40,7 @@ function downscale(source: CanvasImageSource, width: number, height: number): Dr
 function loadImage(src: string): Promise<Drawable | null> {
   return new Promise((resolve) => {
     const img = new Image();
+    img.crossOrigin = "anonymous"
     img.decoding = "async";
     img.onload = () => resolve(downscale(img, img.naturalWidth, img.naturalHeight));
     img.onerror = () => resolve(null);
@@ -60,6 +61,7 @@ function loadVideoPoster(src: string): Promise<Drawable | null> {
       resolve(value);
     };
     const timer = setTimeout(() => finish(null), 8000);
+    video.crossOrigin = "anonymous"
     video.muted = true;
     video.playsInline = true;
     video.preload = "auto";
